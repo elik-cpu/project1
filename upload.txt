@@ -1,0 +1,13 @@
+691  git clone https://github.com/elik-cpu/project1.git
+  692  ll
+  693  ls -lrt
+  694  cd project1
+  695  ls
+  696  ll
+  697  echo "Server to GitHub" > file2.txt
+  698  ll
+  699  ls -lrt
+  700  git status
+  701  git add .
+  702  git commit -m "My First Commit"
+  703  git push origin 
